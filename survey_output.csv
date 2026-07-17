@@ -1,0 +1,9 @@
+source_file,common_name,abundance_category,confidence,in_reef_id_list
+sample_notes.txt,Blue Tang,Few,high,yes
+sample_notes.txt,Nurse Shark,Single,high,yes
+sample_notes.txt,Sergeant Major,Abundant,high,yes
+sample_notes.txt,Yellowtail Damselfish,Many,low,yes
+dive2_notes.txt,Blue Tang,Few,high,yes
+dive2_notes.txt,Nurse Shark,Single,high,yes
+dive2_notes.txt,Sergeant Major,Abundant,high,yes
+dive2_notes.txt,Yellowtail Damselfish,Many,low,yes
